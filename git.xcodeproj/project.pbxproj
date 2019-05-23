@@ -12,6 +12,7 @@
 		851C3F522296C01F00CB684B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 851C3F502296C01F00CB684B /* Main.storyboard */; };
 		851C3F542296C02100CB684B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 851C3F532296C02100CB684B /* Assets.xcassets */; };
 		851C3F572296C02100CB684B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 851C3F552296C02100CB684B /* LaunchScreen.storyboard */; };
+		851C3F5F2296C0D200CB684B /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 851C3F5E2296C0D200CB684B /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		851C3F532296C02100CB684B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		851C3F562296C02100CB684B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		851C3F582296C02100CB684B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		851C3F5E2296C0D200CB684B /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				851C3F4C2296C01F00CB684B /* AppDelegate.swift */,
 				851C3F4E2296C01F00CB684B /* ViewController.swift */,
+				851C3F5E2296C0D200CB684B /* ViewController2.swift */,
 				851C3F502296C01F00CB684B /* Main.storyboard */,
 				851C3F532296C02100CB684B /* Assets.xcassets */,
 				851C3F552296C02100CB684B /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				851C3F4F2296C01F00CB684B /* ViewController.swift in Sources */,
 				851C3F4D2296C01F00CB684B /* AppDelegate.swift in Sources */,
+				851C3F5F2296C0D200CB684B /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
