@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("做了引导页功能")
+        print("做好了直播功能")
     }
 
 
