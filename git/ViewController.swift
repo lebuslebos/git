@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("做了引导页功能")
         print("做好了直播功能")
+        print("做好了支付功能")
     }
 
 
